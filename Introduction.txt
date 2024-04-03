@@ -1,0 +1,4 @@
+The project is divided into two independent parts:
+
+A React Native app. You can run the app in an iOS emulator. If you wish to run the code on Android scroll to the very bottom.
+An authentication server. The server authenticates a joining user and controls which parts of Scaledrone they can access.
